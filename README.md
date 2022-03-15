@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bertrand</h1>
 <h3 align="center">Big data and Cloud engineering Student</h3>
+<p align="right"><img  src="https://raw.githubusercontent.com/naveenjujaray/DeveloperFolio/master/assets/images/one.png"  width="200px"/></p>
 
 - 📫 How to reach me **bertrandkafando07@gmail.com**
 
@@ -8,10 +9,9 @@
 <a href="https://linkedin.com/in/tounwendsida-bertrand-kafando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tounwendsida-bertrand-kafando" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=bertrandkafando&show_icons=true&locale=en" alt="bertrandkafando" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bertrandkafando&show_icons=true&locale=en&layout=compact" alt="bertrandkafando" /></p>
+<p align="left" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=bertrandkafando&show_icons=true&locale=en" alt="bertrandkafando" /> <img  src="https://github-readme-streak-stats.herokuapp.com/?user=bertrandkafando&" alt="bertrandkafando" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bertrandkafando&show_icons=true&locale=en&layout=compact" alt="bertrandkafando" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bertrandkafando&" alt="bertrandkafando" /></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
