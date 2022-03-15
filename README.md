@@ -9,7 +9,7 @@
 <a href="https://linkedin.com/in/tounwendsida-bertrand-kafando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tounwendsida-bertrand-kafando" height="30" width="40" /></a>
 </p>
 <h3 align="left">Github stats:</h3>
-<p align="left" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=bertrandkafando&show_icons=true&locale=en" alt="bertrandkafando"  width="470px" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bertrandkafando&show_icons=true&locale=en&layout=compact" alt="bertrandkafando" width="400px" /></p>
+<p align="left" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=bertrandkafando&show_icons=true&locale=en" alt="bertrandkafando"  width="450px" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bertrandkafando&show_icons=true&locale=en&layout=compact" alt="bertrandkafando" width="400px" /></p>
 
 
 
