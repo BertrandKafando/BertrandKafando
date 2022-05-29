@@ -1,12 +1,17 @@
 <h1 align="center">Hi 👋, I'm Bertrand</h1>
 <h3 align="center">Big data and Cloud engineering Student at <a href="https://www.enset-media.ac.ma/" class="blue-link-underline" target="_blank">@enset</a>         </h3>
-<p align="right"><img  src=https://camo.githubusercontent.com/03544a743fd05bbcbba27e38b9bb71a96b1c5da22ebf48202572be4949b83d1d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7a356943766f316f4362717437756b4d51732f67697068792e676966  width="200px"/></p>
+
+
 
 - 📫 How to reach me **bertrandkafando07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tounwendsida-bertrand-kafando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tounwendsida-bertrand-kafando" height="30" width="40" /></a>
+  
+  </p>
+<p align="right"><img  src=https://camo.githubusercontent.com/03544a743fd05bbcbba27e38b9bb71a96b1c5da22ebf48202572be4949b83d1d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7a356943766f316f4362717437756b4d51732f67697068792e676966  width="400px"/></p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
