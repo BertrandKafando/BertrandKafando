@@ -34,6 +34,7 @@
   
   <hr>
   </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a>
+   <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWTJCmjSWu0wfjp_oI87HUs1jM1d68L0Sv0XrAhBAwgm3xkqyq0qzKngLP394a3AjD5Bw&usqp=CAU" alt="apache spark" width="40" height="40"/> </a>
   
   
   
@@ -41,9 +42,13 @@
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
     <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
   
-  <hr
+  <hr>
+  
+  
   
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
+</a>
+   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://symbols.getvecta.com/stencil_97/43_tensorflow-icon.07309df606.svg" alt="tensorflow" width="40" height="40"/> 
 </a>
    <a href="https://www.pandas.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/get-icon/geticon/blob/master/icons/pandas-logo.svg" alt="pandas" width="100" height="40"/> </a> 
 
