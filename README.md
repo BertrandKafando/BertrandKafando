@@ -1,10 +1,10 @@
 
 <div id="badges" align="center">
   <h1 >Hi 👋, I'm Bertrand</h1>
-  <a href="https://bertrandkafando.ml/">
+  <a href="https://www.linkedin.com/in/tounwendsida-bertrand-kafando/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.hackerrank.com/bertrandkafando1">
+  <a href="https://bertrandkafando.ml/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfolio Badge"/>
   </a>
   <a href="https://twitter.com/kaf_bertrand">
@@ -16,7 +16,7 @@
 <hr>
 <div >
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=bertrandkafando&show_icons=true&locale=en&layout=compact" alt="bertrandkafando" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bertrandkafando&show_icons=true&locale=en" alt="bertrandkafando" />
+<img height="180em" with="100em" src="https://github-readme-stats.vercel.app/api?username=bertrandkafando&show_icons=true&locale=en" alt="bertrandkafando" />
 </div>
 
 
