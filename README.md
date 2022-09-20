@@ -13,11 +13,12 @@
 </div>
 <h3 align="center">Big data and Cloud engineering Student at <a href="https://www.enset-media.ac.ma/" class="blue-link-underline" target="_blank">@enset</a>         </h3>
     <p align="center"><img  src=https://camo.githubusercontent.com/03544a743fd05bbcbba27e38b9bb71a96b1c5da22ebf48202572be4949b83d1d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7a356943766f316f4362717437756b4d51732f67697068792e676966 width="600" height="300"/></p>
+    
+<h3> 📈 &nbsp;My GitHub History!</h3>
 <hr>
-<div >
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=bertrandkafando&show_icons=true&locale=en&layout=compact" alt="bertrandkafando" />
-<img height="180em" with="100em" src="https://github-readme-stats.vercel.app/api?username=bertrandkafando&show_icons=true&locale=en" alt="bertrandkafando" />
-</div>
+<a href=""><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=bertrandkafando&show_icons=true&locale=en&layout=compact" alt="bertrandkafando" />
+<img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=bertrandkafando&show_icons=true&locale=en" alt="bertrandkafando" />
+</a>
 
 
 <div> 
