@@ -16,11 +16,12 @@
     
 <h3> 📈 &nbsp;My GitHub History!</h3>
 <hr>
-<a href="">
+<div align="center">
+<a href="" >
 <img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=bertrandkafando&show_icons=true&locale=en" alt="bertrandkafando" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=bertrandkafando&show_icons=true&locale=en&layout=compact" alt="bertrandkafando" />
 </a>
-
+</div>
 
 <div> 
 <h3 align="left">Languages and Tools:</h3>
