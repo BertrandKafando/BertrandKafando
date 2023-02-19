@@ -18,8 +18,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BertrandKafando&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 <div> 
   
-  
-  
+  [![Linkedin Badge](https://img.shields.io/badge/-bertrandkafando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tounwendsida-bertrand-kafando/)](https://www.linkedin.com/in/tounwendsida-bertrand-kafando/) [![Gmail Badge](https://img.shields.io/badge/-bertrandkafando07@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bertrandkafando07@gmail.com)](mailto:bertrandkafando07@gmail.com) 
+
   
 ### ⭐ Prefered Tools/Langs
   <hr>
@@ -79,8 +79,8 @@
 ### ⭐ Statistics and Languages
    
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=BertrandKafando&s&count_private=true&how_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=BertrandKafando&theme=tokyonight" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BertrandKafando&layout=compact" />
+  <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=BertrandKafando&theme=tokyonight" />
 </p>
 
 
