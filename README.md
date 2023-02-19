@@ -79,8 +79,8 @@
 ### ⭐ Statistics and Languages
    
 <p align="center">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BertrandKafando&layout=compact" />
-  <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=BertrandKafando&theme=tokyonight" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BertrandKafando&layout=compact" />
+  <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=BertrandKafando&theme=tokyonight" />
 </p>
 
 
