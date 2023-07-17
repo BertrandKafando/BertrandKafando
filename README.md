@@ -4,8 +4,8 @@
   <a href="https://www.linkedin.com/in/tounwendsida-bertrand-kafando/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfolio Badge"/>
+  <a href="https://www.datacamp.com/portfolio/bertodev">
+    <img src=https://img.shields.io/badge/DATACAMP-%23000000.svg?style=for-the-badge&logo=datacamp&logoColor=#FF7139 alt="DataCamp Badge"/>
   </a>
   <a href="https://twitter.com/kaf_bertrand">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
