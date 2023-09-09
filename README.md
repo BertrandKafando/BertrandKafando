@@ -18,7 +18,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BertrandKafando&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 <div> 
   
-  [![Linkedin Badge](https://img.shields.io/badge/-bertrandkafando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tounwendsida-bertrand-kafando/)](https://www.linkedin.com/in/tounwendsida-bertrand-kafando/) [![Gmail Badge](https://img.shields.io/badge/-bertrandkafando07@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bertrandkafando07@gmail.com)](mailto:bertrandkafando07@gmail.com) 
+  [![Linkedin Badge](https://img.shields.io/badge/-bertrandkafando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tounwendsida-bertrand-kafando/)](https://www.linkedin.com/in/tounwendsida-bertrand-kafando-010776290/) [![Gmail Badge](https://img.shields.io/badge/-bertrandkafando07@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bertrandkafando07@gmail.com)](mailto:bertrandkafando07@gmail.com) 
 
   
 ### ⭐ Prefered Tools/Langs
