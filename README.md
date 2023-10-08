@@ -12,7 +12,7 @@
   </a>
 </div>
 <h3 align="center">Computer Science Big data and Cloud Computing State Engineer of <a href="https://www.enset-media.ac.ma/" class="blue-link-underline" target="_blank">@ENSET-M</a>.</br>
- Software Engineer | Data Scientist | Consulting Enthusiast  </h3>
+ Data Engineer | Data Scientist | Consulting Enthusiast  </h3>
     <p align="center"><img  src=https://camo.githubusercontent.com/03544a743fd05bbcbba27e38b9bb71a96b1c5da22ebf48202572be4949b83d1d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7a356943766f316f4362717437756b4d51732f67697068792e676966 width="600" height="300"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BertrandKafando&label=Profile%20views&color=0e75b6&style=flat" /> </p>
