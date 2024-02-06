@@ -14,7 +14,7 @@
 <h3 align="center">Big data and Cloud Computing State Engineer(II-BDCC) <a href="https://www.enset-media.ac.ma/" class="blue-link-underline" target="_blank">@Hassan II University of Casablanca</a>.</br>
   M2 Exploration Informatique des Données et Décisionnel (EID2) <a href="https://galilee.univ-paris13.fr/master/master-informatique/" class="blue-link-underline" target="_blank">@Sorbonne Paris Nord University</a>. </br>
  Seeking Opportunities as a Data Engineer | Consultant Data Analytics & Management </h3>
-    <p align="center"><img  src="img.png" width="600" height="300"/></p>
+    <p align="center"><img  src="DD2.jpg" width="600" height="300"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BertrandKafando&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 <div> 
