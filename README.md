@@ -7,7 +7,7 @@
   <a href="https://www.datacamp.com/portfolio/bertodev">
     <img src=https://img.shields.io/badge/DATACAMP-%23000000.svg?style=for-the-badge&logo=datacamp&logoColor=#FF7139 alt="DataCamp Badge"/>
   </a>
-  <a href="#">
+  <a href="https://twitter.com/Kafbertrand">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
