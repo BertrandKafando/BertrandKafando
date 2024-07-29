@@ -12,7 +12,7 @@
   </a>
 </div>
 <h3 align="center">Big Data and Cloud Computing Engineer(II-BDCC) <a href="https://www.enset-media.ac.ma/" class="blue-link-underline" target="_blank">@Hassan II University of Casablanca</a>.</br>
-  M.S in Data Science and Artificial Intelligence (EID2) <a href="https://galilee.univ-paris13.fr/master/master-informatique/" class="blue-link-underline" target="_blank">@Sorbonne Paris Nord University</a>. </br>
+  MSc. in Data Science and Artificial Intelligence (EID2) <a href="https://galilee.univ-paris13.fr/master/master-informatique/" class="blue-link-underline" target="_blank">@Sorbonne Paris Nord University</a>. </br>
   Data Engineer intern at <a href="https://talents.bpifrance.fr/notre-groupe/" class="blue-link-underline" target="_blank">@BpiFrance</a>
    </br>
  Seeking Opportunities as a Data Engineer | Consultant Data Analytics & Management </h3>
