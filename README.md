@@ -26,7 +26,7 @@
     </ul>
   </li>
   <li>Completed a <strong style="color:#F39C12;">6-month freelance project</strong> as a <strong style="color:#D68910;">Software Engineer</strong>, building a comprehensive clinic patient management platform.</li>
-  <li>Strong interest in <strong style="color:#2ECC71;">Data Engineering, Artificial Intelligence</strong>, quantitative finance, and trading.</li>
+  <li>Strong interest in <strong style="color:#2ECC71;">Data Engineering, Artificial Intelligence</strong>, fintech, quantitative finance, and trading.</li>
 </ul>
 </br>
 
