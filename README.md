@@ -1,6 +1,6 @@
 
 <div id="badges" align="center">
-  <h1 >Hi 👋, I'm Bertrand, Data Scientist @IDEMIA</h1>
+  <h1 >Hi 👋, I'm Bertrand, Data Scientist</h1>
   <a href="https://www.linkedin.com/in/tounwendsida-bertrand-kafando/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
