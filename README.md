@@ -17,14 +17,32 @@
 </div>
  </br>
 
+<p><strong style="color:#FF5733;">🛠️ EXPERIENCE</strong> – Idemia • BpiFrance • Freelance</p>
 <ul>
-  <li><strong style="color:#FF5733;">Graduate Big Data & Cloud Engineer</strong> with an MSc in <strong style="color:#5DADE2;">Data Science & Artificial Intelligence</strong>.</li>
-  <li>Proficient in <strong style="color:#F1C40F;">Python, Java, SQL, ETL, AI</strong>, experienced in <strong style="color:#48C9B0;">cloud environments (AWS)</strong> and <strong style="color:#9B59B6;">DevOps tools (Jenkins, Docker, Kubernetes)</strong>, <strong style="color:#3498DB;">Big Data technologies</strong> such as <strong style="color:#E67E22;">Spark</strong> and <strong style="color:#D35400;">Kafka</strong>, and <strong style="color:#7D3C98;">distributed systems</strong>.</li>
-  <li>Experience building <strong style="color:#28B463;">ETL</strong>, <strong style="color:#FF5733;">Data platform</strong>: <strong style="color:#5DADE2;">Data Lake, Data Lakehouse, Dataviz</strong>.</li>
-  <li>Solid mathematical background with a demonstrated interest in <strong style="color:#8E44AD;">AI</strong>, including <strong style="color:#9B59B6;">Machine Learning</strong>, <strong style="color:#7D3C98;">Deep Learning</strong>, and <strong style="color:#2ECC71;">Large Language Models (LLMs)</strong>.</li>
-
-  <li>Strong interest in <strong style="color:#2ECC71;">Data, Artificial Intelligence, fintech, quantitative finance, and trading</strong>.</li>
+  <li>Built and maintained <strong style="color:#28B463;">ETL pipelines</strong></li>
+  <li>Designed & Developed <strong style="color:#5DADE2;">Data Lakes</strong>, <strong style="color:#E67E22;">Lakehouses</strong></li>
+  <li>Developed <strong style="color:#9B59B6;">RAG systems</strong> and <strong style="color:#2ECC71;">LLM-powered AI agents</strong></li>
 </ul>
+
+<p><strong style="color:#FF5733;">🔧🧠 TECHNICAL SKILLS</strong></p>
+<ul>
+  <li><strong style="color:#F1C40F;">Languages & Tools</strong>: Python, Java, Scala, SQL, ETL</li>
+  <li><strong style="color:#48C9B0;">Cloud & DevOps</strong>: AWS, Jenkins, Docker, Kubernetes</li>
+  <li><strong style="color:#9B59B6;">AI/ML</strong>: Machine Learning, Deep Learning, LLMs, GenAI</li>
+  <li><strong style="color:#D35400;">Big Data</strong>: Spark, Hadoop, Kafka, distributed systems</li>
+</ul>
+
+<p><strong style="color:#FF5733;">💡 PROFESSIONAL INTERESTS</strong></p>
+<ul>
+  <li>Data, AI, Fintech, Quant Finance, Trading</li>
+</ul>
+
+<p><strong style="color:#FF5733;">🎓 GRADUATE</strong></p>
+<ul>
+  <li><strong style="color:#3498DB;">Big Data and Cloud Engineer</strong> – 2023</li>
+  <li><strong style="color:#5DADE2;">MSc in Data Science & Artificial Intelligence</strong> – 2024</li>
+</ul>
+
 
 </br>
 
